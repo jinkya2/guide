@@ -6,7 +6,7 @@
 - Redux is used to manage the data or state of complex JavaScript applications.
 - Redux have store as database for frontend.
 - Within multipple state management tolls like flux, MobX, x-state; Redux is most popular and widely used.
-- Redux can be used with React, Angular or even javaScript
+- Redux can be used with React, Angular or even javaScript.
 - Pros
 
   - Centralize application state

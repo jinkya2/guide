@@ -35,6 +35,7 @@
 
 - Official Documentation
 - Hooks
+- Patterns
 - Hands on
   - Layout
   - Routing
