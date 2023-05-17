@@ -5,7 +5,7 @@
 - State management library for javaScript Applications
 - Redux is used to manage the data or state of complex JavaScript applications.
 - Redux have store as database for frontend.
-- Within multipple state management tolls like flux, MobX, x-state; Redux is most popular and widely used.
+- Within multiple state management tolls like flux, MobX, x-state; Redux is most popular and widely used.
 - Redux can be used with React, Angular or even javaScript.
 - Pros
 
@@ -26,9 +26,9 @@
   - Data flow is complex
 - When you should NOT use Redux?
   - Small or medium size app
-  - Simple UI ans static data
+  - Simple UI and static data
   - Dont just use any tools because they are popular.
-  - Dan Abramov, creator of Redux, wrote blog, "You might not need Redux"
+  - Dan Abramov, creator of Redux, wrote blog, "[You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367 "dan abramov article")"
 - Refer `/section1-resource/redux-starter`
   - Using webpack
     - Webpack is the bundler to bundle our JavaScript code in one file and then link with our Browser.
@@ -46,11 +46,11 @@
   - Immutability
   - Objects and Arrays
 - What is functional programming
-  - One of programming paradigm(the method or a set of rules to tructure our code and to solve a problem)
+  - One of programming paradigm(the method or a set of rules to structure our code and to solve a problem)
   - Different Programming Paradigms
-    - ProceduralProgramming
+    - Procedural Programming
     - Logical Programming
-    - FUnctional Programming
+    - Functional Programming
     - Object Oriented Programming
   - Functional Programming
     - Invented by John Mcarthy in 1950
@@ -85,5 +85,7 @@
 ## Section 6 [Middleware in Redux]
 
 ## Section 7 [Calling API with Redux]
+
+- call1
 
 ## Section 8 [Integrate Redux with React App]
